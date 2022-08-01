@@ -8,6 +8,20 @@ html {
   background-attachment: fixed;
 }
 
+.startup-landing {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+}
 h1 {
-  color: whitesmoke;
+  color: rgb(213, 212, 212);
+  margin-bottom: 165px; 
+}
+
+.button {
+  flex-direction: column;
+  margin-top: -300px;
 }
