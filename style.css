@@ -18,10 +18,10 @@ html {
 }
 h1 {
   color: rgb(213, 212, 212);
-  margin-bottom: 165px; 
+  margin-bottom: 200px; 
 }
 
 .button {
   flex-direction: column;
-  margin-top: -300px;
+  margin-top: -350px;
 }
